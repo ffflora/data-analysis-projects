@@ -1,5 +1,5 @@
-These projects focusing on data analysis (data cleaning, data proprocessing, EDA, data visualization, etc.) with python.
-
+These projects focusing on data analysis (data cleaning, data proprocessing, EDA, data visualization, etc.) with python.  
+Working in progress of polishing the projects.
 
 
 ## US New Born Babys' Name Analysis 
