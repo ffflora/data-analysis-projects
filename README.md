@@ -6,7 +6,7 @@ These projects focus on data analysis (data cleaning, data proprocessing, explor
 
 [Click here to review the codes](https://github.com/ffflora/data-analysis-projects/blob/master/babynames.ipynb)
 
-Click here to review the blog post of the project
+[Click here to review the blog post of the project](https://kyso.io/FFFlora/data-analysis-on-us-newborn-names)
 
 <u>Tasks</u> of the project: 
 
