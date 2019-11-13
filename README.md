@@ -2,7 +2,7 @@ These projects focus on data analysis (data cleaning, data proprocessing, explor
 **Working in progress on polishing the projects.**
 
 
-## US New Born Babys' Name Analysis 
+## US Newborn Name Analysis 
 
 [Click here to review the codes](https://github.com/ffflora/data-analysis-projects/blob/master/babynames.ipynb)
 
